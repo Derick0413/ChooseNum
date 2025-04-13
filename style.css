@@ -1,0 +1,5 @@
+/* 커스텀 스타일은 여기에 추가 가능 */
+/* 현재는 기본 Bootstrap + Tailwind 로 충분히 세련됨 */
+body {
+  font-family: 'Pretendard', 'Noto Sans KR', sans-serif;
+}
